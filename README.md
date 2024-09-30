@@ -4,15 +4,14 @@ Developed a SQL and  Power BI project focused on analyzing sales data for a coff
 
 ### Problem Statement
 The coffee shop is struggling to understand its sales performance. The specific areas of concern include:
-
-Total sales analysis
-Total order analysis
-Total quantity sold analysis
-Sales analysis by weekdays and weekends
-Sales analysis by store location
-Sales analysis by product category
-Top 10 products by sales
-Sales analysis by days and hours
+Total sales analysis.
+Total order analysis.
+Total quantity sold analysis.
+Sales analysis by weekdays and weekends.
+Sales analysis by store location.
+Sales analysis by product category.
+Top 10 products by sales.
+Sales analysis by days and hours.
 The goal is to analyze these aspects to identify key drivers of sales and areas for improvement.
 
 ### Tools Used
